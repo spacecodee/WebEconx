@@ -1,6 +1,6 @@
 # Sistema web con javaweb, jsp, mvc, mysql y reportes
 
-- sistema hecho en mis tiempos de universidad, crud con mysql y java swing.
+- sistema hecho en mis tiempos de universidad, crud con mysql y java web, jsp, reportes.
 - Para usarlo solo debes de importar la base de datos en tu server de bd y cambiar las credenciales de conexion hacia tu base de datos.
 
 ## Followme
